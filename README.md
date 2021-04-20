@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1Gluk1
-- 👀 I’m interested in web Full-stack (MERN) devolopment
-- 🌱 I’m currently learning React/Node.js
+- 👀 I’m interested in Back-end and Cyber Security
+- 🌱 I’m currently learning Laravel/Lumen
 - 📫 How to reach - me https://vk.com/evol_way or gorbachovanton@yandex.ru
 
 <!---
