@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1Gluk1
 - 👀 I’m interested in Back-end and Cyber Security
-- 🌱 I’m currently learning Laravel/Lumen
+- 🌱 I’m currently learning Nest.js + Angular
 - 📫 How to reach - me https://vk.com/evol_way or gorbachovanton@yandex.ru
 
 <!---
