@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1Gluk1
-- 🌱 I’m currently learning Nest.js + Angular
+- 🌱 I’m currently use Nest.js, and learning Rust + Elixir 
 - 📫 How to reach - me https://vk.com/evol_way or gorbachovanton@yandex.ru
 
 <!---
