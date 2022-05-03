@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1Gluk1
-- 🌱 I’m currently use Nest.js, and learning Rust + Elixir 
+- 🌱 I’m currently use Nest.js, and learning Rust + Elixir (Phoenix)
 - 📫 How to reach - me https://vk.com/evol_way or gorbachovanton@yandex.ru
 
 <!---
